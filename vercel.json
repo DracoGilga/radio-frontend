@@ -1,0 +1,12 @@
+{
+	"rewrites": [
+		{
+			"source": "/radiostream/test/(.*)",
+			"destination": "/index.html"
+		},
+		{
+			"source": "/radiostream/test",
+			"destination": "/index.html"
+		}
+	]
+}
