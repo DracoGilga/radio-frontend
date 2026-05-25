@@ -1,4 +1,11 @@
 {
+	"redirects": [
+		{
+			"source": "/",
+			"destination": "/radiostream/test",
+			"permanent": true
+		}
+	],
 	"rewrites": [
 		{
 			"source": "/radiostream/test",
