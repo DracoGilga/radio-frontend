@@ -8,5 +8,5 @@ export default defineConfig({
 			'Content-Security-Policy': "script-src 'self' 'unsafe-eval' 'unsafe-inline';"
 		}
 	},
-    base: '/radiostream/test',
+	base: './',
 })
